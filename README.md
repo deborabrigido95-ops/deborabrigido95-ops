@@ -10,8 +10,9 @@ Passionate about transforming complex datasets into actionable business insights
 * **Statistics:** Time Series Analysis, Multivariate Statistics, and Predictive Modeling.
 
 ### 🚀 Featured Projects
-* **[Marketing Mix Modeling](https://github.com/deborabrigido95-ops/Marketing-Mix-Modeling-Time-Series-R):** VAR models in R to analyze 207 weeks of sales data and estimate elasticities.
-* **[Customer Segmentation](https://github.com/deborabrigido95-ops/Market-Segmentation-Cluster-Analysis-R):** Identifying consumer profiles using Ward's & K-means clustering.
+* **[Marketing Mix Modeling](https://github.com/deborabrigido95-ops/Marketing-Mix-Modeling-R):** VAR models in R to analyze 207 weeks of sales data and estimate elasticities.
+* **[Customer Segmentation](https://github.com/deborabrigido95-ops/Market-Segmentation-Analysis-R):** Identifying consumer profiles using Ward's & K-means clustering.
+* **[Cycling in Groningen](https://github.com/deborabrigido95-ops/Groningen-Cycling-EDA):** EDA on 8 years of official cyclist count data from the municipality of Groningen
 
 ### 📫 Connect with me
 * **Email:** [deborabrigido95@hotmail.com](mailto:deborabrigido95@hotmail.com) 
